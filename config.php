@@ -10,4 +10,4 @@ $android_id="a7ad1d62665ba4b3";
 $device_type="vivo++vivo+Y21";
 
 
-?>
+?
